@@ -96,7 +96,7 @@ if (score < 100){
 }
 
    if (score == 20){
-   MotherShip();
+  // MotherShip();
   }
   
   drawSprites();
